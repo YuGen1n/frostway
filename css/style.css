@@ -9,7 +9,6 @@
 }
 .container{
     overflow: hidden;
-    scale: 0.9;
 }
 :root{
     --primary-blue: #0056b3;
@@ -1429,3 +1428,4 @@ footer {
     }
 
 }
+
